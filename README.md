@@ -1,4 +1,4 @@
-#### Esse é o nosso Mundo!  E aí Tupis Techies 👋
+####
 
 <!--
 **Maliarte/Maliarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
