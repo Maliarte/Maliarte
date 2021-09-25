@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Esse é o nosso Mundo!  E aí Tupis Techies 👋
 
 <!--
 **Maliarte/Maliarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github.com/Maliarte/Maliarte/blob/main/flower.gif)
