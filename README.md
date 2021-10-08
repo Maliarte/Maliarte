@@ -14,3 +14,19 @@
 
 
 ![](https://github.com/Maliarte/Maliarte/blob/main/flower.gif)
+
+## Conexão::
+* <a href="https://br.linkedin.com/in/maliarte" target="_blank"> <img align="center" alt="perfil-linkedin-marilia" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-widht:100%;"></a>
+
+
+## Interesse e Skills::
+
+<a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-widht:100%;"></a>
+ <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-widht:100%;"></a>
+<a href="https://github.com/Maliarte/PrograminC"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+ <a href="https://github.com/Maliarte/PHP"><img align="center" alt="html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-widht:100%;"></a>
+ <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-widht:100%;"></a>
+  
+  
+  
+  
