@@ -12,8 +12,8 @@
 
 - ⚡ Curiosidades: fundadora de Barbaros Tecnologicos, Marília inova com a abordagem lúdica e criativa buscando auxiliar ingressantes em suas próprias jornadas pelo mundo da Tecnologia da Informação.
 
+[![Watch the video](https://github.com/Maliarte/Maliarte/blob/main/mali.jpg)](https://youtu.be/TyoP_ZcRDuk)
 
-![](https://github.com/Maliarte/Maliarte/blob/main/flower.gif)
 
 ## Conexão::
 * <a href="https://br.linkedin.com/in/maliarte" target="_blank"> <img align="center" alt="perfil-linkedin-marilia" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-widht:100%;"></a>
