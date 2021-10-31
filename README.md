@@ -12,7 +12,10 @@
 
 - ⚡ Curiosidades: fundadora de Barbaros Tecnologicos, Marília inova com a abordagem lúdica e criativa buscando auxiliar ingressantes em suas próprias jornadas pelo mundo da Tecnologia da Informação.
 
-[![Watch the video](https://github.com/Maliarte/Maliarte/blob/main/mali.jpg)](https://youtu.be/TyoP_ZcRDuk)
+
+  
+![](https://github.com/Maliarte/Maliarte/blob/main/apresentacao-marilia-2021.jpg)
+
 
 
 ## Conexão::
@@ -27,6 +30,6 @@
  <a href="https://github.com/Maliarte/PHP"><img align="center" alt="html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-widht:100%;"></a>
  <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-widht:100%;"></a>
   
-  
-  
+  ## Comunidade::
+  [![Watch the video](https://github.com/Maliarte/Maliarte/blob/main/mali.jpg)](https://youtu.be/TyoP_ZcRDuk)
   
