@@ -1,28 +1,19 @@
-## Bem-vindos ao meu repositório!
+
+![](https://github.com/Maliarte/images/blob/master/apresentacao-marilia-2021.jpg)
+##
 ### Aqui você irá encontrar meu trajeto como desenvolvedora de aplicações para Web.
-
-
-
-
 - 🔭 Trabalho atualmente com projetos acadêmicos utilizando a linguagem C e PHP além das tecnologias web como HTML5, CSS3 e JS.
-- 🌱 Estou atualmente estudando linguagens de Back-end e buscando desenvolver + em POO.
-- 👯 Busco colaborar com a comunidade. Sou  devota do trabalho colaborativo buscando sempre desenvolvimento.
+- 🌱 Estudo linguagens de Back-end visando desenvolver + em OOP.
+- 👯 Colaborar com projetos voltados à interface do usuário é meu principal objetivo.
 
 - 📫 Me encontre: https://maliarte.com.br  | email: contato@maliarte.com.br
 
-- ⚡ Curiosidades: fundadora de Barbaros Tecnologicos, Marília inova com a abordagem lúdica e criativa buscando auxiliar ingressantes em suas próprias jornadas pelo mundo da Tecnologia da Informação.
+- ⚡ Projetos: [podcaster](https://open.spotify.com/show/5oUpz8eFeHEEbwX5pGBBKS)
 
-
-  
-![](https://github.com/Maliarte/images/blob/master/apresentacao-marilia-2021.jpg)
-
-
-
-## Conexão::
 * <a href="https://br.linkedin.com/in/maliarte" target="_blank"> <img align="center" alt="perfil-linkedin-marilia" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-widht:100%;"></a>
 
 
-## Interesse e Skills::
+## Skills::
 
 <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-widht:100%;"></a>
  <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-widht:100%;"></a>
