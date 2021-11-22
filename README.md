@@ -22,5 +22,5 @@
  <a href="https://github.com/Maliarte/Aplicacao-Web"><img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-widht:100%;"></a>
   
   ## Comunidade::
-  [![Watch the video](https://github.com/Maliarte/images/blob/master/new-writter-maliarte.jpg)](https://youtu.be/N_CcGV1vxBY)
+  [![Watch the video](https://github.com/Maliarte/images/blob/master/acompanhe.jpg)](https://youtu.be/N_CcGV1vxBY)
   
