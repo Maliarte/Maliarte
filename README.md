@@ -1,5 +1,5 @@
 
-![](https://github.com/Maliarte/images/blob/master/apresentacao-marilia-2021.jpg)
+![](https://github.com/Maliarte/images/blob/master/maliarte%20-makeonism-green-acid.png)
 ##
 ### Aqui você irá encontrar meu trajeto como desenvolvedora de aplicações para Web.
 - 🔭 Trabalho atualmente com projetos acadêmicos utilizando a linguagem C e PHP além das tecnologias web como HTML5, CSS3 e JS.
@@ -24,3 +24,5 @@
   ## Comunidade::
   [![Watch the video](https://github.com/Maliarte/images/blob/master/acompanhe.jpg)](https://youtu.be/N_CcGV1vxBY)
   
+* EXTRA: EXPERIÊNCIA DO USUÁRIO
+![](https://github.com/Maliarte/images/blob/master/ser-experiencia.png)
