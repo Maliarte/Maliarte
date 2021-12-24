@@ -24,6 +24,7 @@
  * EXPERIÊNCIA DO USUÁRIO (UI|UX)
  
 ![](https://github.com/Maliarte/images/blob/master/ser-experiencia.png)
+![](https://github.com/Maliarte/images/blob/master/todos-temos-sentidos.png)
 
   ## Comunidade::
   [![Watch the video](https://github.com/Maliarte/images/blob/master/acompanhe.jpg)](https://youtu.be/N_CcGV1vxBY)
