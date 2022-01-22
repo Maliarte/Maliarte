@@ -25,6 +25,7 @@
  
 ![](https://github.com/Maliarte/images/blob/master/ser-experiencia.png)
 ![](https://github.com/Maliarte/images/blob/master/todos-temos-sentidos.png)
+![](https://github.com/Maliarte/images/blob/master/veraoesfera-2022-maliarte.png)
 
   ## Comunidade::
   [![Watch the video](https://github.com/Maliarte/images/blob/master/acompanhe.jpg)](https://youtu.be/N_CcGV1vxBY)
