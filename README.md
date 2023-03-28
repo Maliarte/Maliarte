@@ -31,12 +31,6 @@
 ![](https://github.com/Maliarte/images/blob/master/todos-temos-sentidos.png)
 ![](https://github.com/Maliarte/images/blob/master/veraoesfera-2022-maliarte.png)
 #
-# 2022..: Rumo à Marte 
---but there are borders in the garden of the Aedem, or reason.
-### O tondo do nano mundo: uma epopéia da nova era digital-pandemica! take your time and win the game of love.
-![](https://github.com/Maliarte/images/blob/master/tondo_do_nano_mundo_maliarte_22.png)
-#
-![](https://github.com/Maliarte/images/blob/master/tondo_giga_mundo_maliarte%238.jpg)
 
  ## Conecte-se ! 
  
