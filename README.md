@@ -1,6 +1,6 @@
 
 
-## Hello Kitty! ops...World! 
+## Hello World! 
 <p align="center">
  <img src="https://github.com/Maliarte/images/blob/master/Hi.gif" />
 </p>
