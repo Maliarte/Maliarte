@@ -6,9 +6,7 @@
 </p>
 
 ### Aqui você irá encontrar meu trajeto como desenvolvedora de aplicações para Web.
-- 🔭 Trabalho atualmente com projetos acadêmicos utilizando a linguagem C e PHP além das tecnologias web como HTML5, CSS3 e JS.
-- 🌱 Estudo linguagens de Back-end visando desenvolver + em OOP.
-- 👯 Colaborar com projetos voltados à interface do usuário é meu principal objetivo.
+Cursando Análise de Sistemas, possuo experiência em sistemas operacionais, linguagens de front e backend, além de pré-vendas com serviços de cloud e HCI. Tenho vivência em vendas B2B, oferecendo serviços e softwares para pequenas e grandes empresas. Convergindo assim habilidades técnicas da minha formação, com atributos de comunicação ativa para compreensão das necessidades do cliente. Atuo no desenvolvimento e implementação de projetos de TI focada em maximizar resultados e agregar valor aos negócios, buscando sempre conhecimento contínuo e superando desafios que são impostos. 
 #
  ##  <a href="https://br.linkedin.com/in/maliarte" target="_blank"> <img align="center" alt="perfil-linkedin-marilia" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-widht:100%;"></a> 
  
