@@ -7,7 +7,7 @@
 
 ### Aqui você irá encontrar meu trajeto como Analista de Sistemas.
 
-Experiência em sistemas operacionais, linguagens de front e backend, além de pré-vendas com serviços de cloud e HCI. Vivência em vendas B2B, ofereço serviços e softwares para pequenas e grandes empresas. Convergindo assim habilidades técnicas da minha formação, com atributos de comunicação ativa para compreensão das necessidades do cliente. Atuo no desenvolvimento e implementação de projetos de TI focada em maximizar resultados e agregar valor aos negócios, buscando sempre conhecimento contínuo e superando desafios que são impostos. 
+Experiência em sistemas operacionais, linguagens de front e backend orientada à vendas b2b  com vivência em cloud e HCI. Convergindo assim habilidades técnicas da minha formação com atributos de comunicação ativa para compreensão das necessidades do cliente. Atuo no desenvolvimento e implementação de projetos de TI focada em maximizar resultados e agregar valor aos negócios, buscando sempre conhecimento contínuo e superando desafios que são impostos. 
 
 #
 
