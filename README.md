@@ -2,7 +2,7 @@
 
 ## Hello World! 
 <p align="center">
- <img src="https://github.com/Maliarte/images/blob/master/Hi.gif" />
+ <img src="https://github.com/Maliarte/images/blob/master/flower.gif" />
 </p>
 
 ### Aqui você irá encontrar meu trajeto como Analista de Sistemas.
